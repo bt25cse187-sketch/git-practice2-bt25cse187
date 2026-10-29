@@ -1,3 +1,4 @@
 Git Branching Practice
 This file is used to practice creating branches and merging changes.
 Original version on the main branch.
+Changes made in feature/exercise-02 branch.
