@@ -1,0 +1,2 @@
+This is my first Git practice exercise.
+I am learning to track files and commits.
