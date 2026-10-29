@@ -9,9 +9,8 @@
 This repository contains the exercises completed for the Git and GitHub practice assignment. It demonstrates source-code management, commits, branches, merging, issue tracking, and pull requests.
 
 ## Completed Exercises
-- [ ] Exercise 01 – [Enter exercise title]
-- [ ] Exercise 02 – [Enter exercise title]
-- [ ] Exercise 03 – [Enter exercise title]
+- [ ] Exercise 01 
+- [ ] Exercise 02 
 
 Update this list according to the actual exercises assigned.
 
@@ -57,12 +56,32 @@ If it reads from a file, use:
 Refer to the `output.txt` file inside each exercise folder.
 
 ## GitHub Issues
-- Exercise 01: Add issue URL here.
-- Exercise 02: Add issue URL here.
+- Exercise 01: https://github.com/bt25cse187-sketch/git-practice2-bt25cse187/issues/1
+- Exercise 02: https://github.com/bt25cse187-sketch/git-practice2-bt25cse187/issues/1
 
 ## Pull Requests
-- Exercise 01: Add pull request URL here.
-- Exercise 02: Add pull request URL here.
+- Exercise 01:https://github.com/bt25cse187-sketch/git-practice2-bt25cse187/pull/2
+- Exercise 02:https://github.com/bt25cse187-sketch/git-practice2-bt25cse187/pull/2
 
 ## Submission
-Repository URL: https://github.com/YOUR-USERNAME/git-practice-rollnumber
+Repository URL: https://github.com/bt25cse187-sketch/git-practice2-bt25cse187
+
+
+
+## GitHub Issues
+
+- [Issue 1: Complete Exercise 01 – Basic Git Operations](https://github.com/bt25cse187-sketch/git-practice2-bt25cse187/issues/1)
+
+## Pull Requests
+
+- [PR 1: Add Exercise 02 – Branching and Merging](https://github.com/bt25cse187-sketch/git-practice2-bt25cse187/pull/2)
+
+## Assignment Status
+
+- [x] Created the GitHub repository
+- [x] Added Exercise 01 files
+- [x] Added Exercise 02 files
+- [x] Documented Git commands in `git-commands.md`
+- [x] Created a GitHub Issue
+- [x] Created a Pull Request
+- [x] Practiced branching and merging
